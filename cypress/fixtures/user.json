@@ -1,0 +1,38 @@
+{
+  "validMaleUser": {
+    "gender": "Male",
+    "firstName": "Rafvy",
+    "lastName": "Octa",
+    "email": "rafvyocta2525@example.com",
+    "password": "Password123!"
+  },
+  "validFemaleUser": {
+    "gender": "Female",
+    "firstName": "Naura",
+    "lastName": "Mufida",
+    "email": "nauramufida1212@example.com",
+    "password": "Password123!"
+  },
+  "invalidUserMismatchPassword": {
+    "gender": "Male",
+    "firstName": "Radieth",
+    "lastName": "Arkhan",
+    "email": "radietharkhan66@example.com",
+    "password": "Password123!",
+    "confirmPassword": "Password1234!"
+  },
+  "invalidUserInvalidEmail": {
+    "gender": "Female",
+    "firstName": "Invalid",
+    "lastName": "Email",
+    "email": "invalidemail",
+    "password": "Password123!"
+  },
+  "existingUser": {
+    "gender": "Male",
+    "firstName": "Muhammad",
+    "lastName": "Nugraha",
+    "email": "rafvyocta@gmail.com",
+    "password": "Password123!"
+  }
+}
